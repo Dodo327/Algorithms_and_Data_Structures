@@ -1,0 +1,3 @@
+# Messenger Statistics
+Messenger data visualization app for Data Visualization Techniques course - 3rd semester IAD, Warsaw University of Technology.
+Authors: [@PawełFlorek](https://github.com/FlorekPawel), [@HubertSobocinski](https://github.com/hubsonsss) and [@MiłoszChodan](https://github.com/miloszchodan).
